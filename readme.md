@@ -1,3 +1,3 @@
 # Gang of Four Design Patterns
 
-Репозиторий содержит примеры реализации паттернов, выполненные в рамках курса "GRASP & GoF Design Patterns".
+Patterns implementation examples are done during the course "GRASP & Gof Design Patterns" by FoxmindEd.
