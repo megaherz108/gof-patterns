@@ -5,23 +5,23 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.AbstractFactory", "Creational.AbstractFactory\Creational.AbstractFactory.csproj", "{FEE265C7-F927-4B0F-9467-82F259137B6A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Builder", "Builder\Creational.Builder.csproj", "{0500AF8E-3409-4709-B941-DC54C812029C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Builder", "Creational.Builder\Creational.Builder.csproj", "{0500AF8E-3409-4709-B941-DC54C812029C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.FactoryMethod", "FactoryMethod\Creational.FactoryMethod.csproj", "{F1EDA0AA-9276-4843-847C-9CC613CA818A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.FactoryMethod", "Creational.FactoryMethod\Creational.FactoryMethod.csproj", "{F1EDA0AA-9276-4843-847C-9CC613CA818A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Prototype", "Prototype\Creational.Prototype.csproj", "{710C6A7B-994D-4397-BAFC-659D3597B57B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Prototype", "Creational.Prototype\Creational.Prototype.csproj", "{710C6A7B-994D-4397-BAFC-659D3597B57B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Singleton", "Singleton\Creational.Singleton.csproj", "{503CAF68-B316-477A-828D-FA5EAFFDA64E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational.Singleton", "Creational.Singleton\Creational.Singleton.csproj", "{503CAF68-B316-477A-828D-FA5EAFFDA64E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Adapter", "Adapter\Structural.Adapter.csproj", "{4B82ED16-D076-440E-AAFF-C83E008B185A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Adapter", "Structural.Adapter\Structural.Adapter.csproj", "{4B82ED16-D076-440E-AAFF-C83E008B185A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Composite", "Composite\Structural.Composite.csproj", "{A83810F3-F4DE-4974-A4C6-2FC1E931C1DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Composite", "Structural.Composite\Structural.Composite.csproj", "{A83810F3-F4DE-4974-A4C6-2FC1E931C1DC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Decorator", "Decorator\Structural.Decorator.csproj", "{69E42B95-1542-4FCA-BC0F-4B172F801475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Decorator", "Structural.Decorator\Structural.Decorator.csproj", "{69E42B95-1542-4FCA-BC0F-4B172F801475}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Facade", "Facade\Structural.Facade.csproj", "{4E791445-6564-4876-9292-3B5794D2358E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Facade", "Structural.Facade\Structural.Facade.csproj", "{4E791445-6564-4876-9292-3B5794D2358E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Proxy", "Proxy\Structural.Proxy.csproj", "{B1972EFA-7057-46B4-BD76-4BCCB369410A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural.Proxy", "Structural.Proxy\Structural.Proxy.csproj", "{B1972EFA-7057-46B4-BD76-4BCCB369410A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
