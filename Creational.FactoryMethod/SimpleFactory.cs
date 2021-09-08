@@ -1,12 +1,11 @@
-﻿using FactoryMethod.Food;
+﻿using FactoryMethod.FoodTypes;
 using System;
 
 namespace FactoryMethod
 {
-    // Factory class
-    public class Oven
+    public class SimpleFactory
     {
-        public Food.Food CreateFood(string name)
+        public FoodTypes.Food CreateFood(string name)
         {
             switch (name)
             {

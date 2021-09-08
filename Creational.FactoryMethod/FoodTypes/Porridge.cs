@@ -1,4 +1,4 @@
-﻿namespace FactoryMethod.Food
+﻿namespace FactoryMethod.FoodTypes
 {
     public class Porridge : Food
     {
