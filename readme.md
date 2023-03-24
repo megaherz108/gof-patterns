@@ -1,3 +1,3 @@
-# Gang of Four Design Patterns
+# Design Patterns in C#
 
-Patterns implementation examples are done during the course "GRASP & Gof Design Patterns" by FoxmindEd.
+Небольшие примеры реализации различных паттернов на C#.
