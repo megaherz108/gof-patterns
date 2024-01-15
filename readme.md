@@ -1,3 +1,3 @@
 # Design Patterns in C#
 
-Небольшие примеры реализации различных паттернов на C#.
+Example implementations of different design patterns in C#.
